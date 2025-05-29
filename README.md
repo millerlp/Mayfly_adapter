@@ -28,7 +28,7 @@ On solder jumper 19 (SJ19), move the solder blob from 12 to 13.
 On solder jumper 16 (SJ16), place a blob of solder (activates modem power LED - white)
 On solder jumper 17 (SJ17), place a blob of solder (activates modem network indicator LED - blue)
 
-![Image of the bottom of a Mayfly data logger with solder jumpers circled](/Pictures/Mayfly_jumper_modifications_20230206_sm.JPG)
+![Image of the bottom of a Mayfly data logger with solder jumpers circled](/Pictures/Mayfly_jumper_modifications_20230206_sm.jpg)
 
 
 Developed by Luke Miller
