@@ -18,7 +18,7 @@ library found at [https://github.com/millerlp/Allegro_A139x_8channel_mux](https:
 Note that this 8-Channel library also relies on a modified library for the PCA9557 library 
 found here: [https://github.com/millerlp/pca9557](https://github.com/millerlp/pca9557)
 
-![Image of a Mayfly adapter circuit board attached to an EnviroDIY Mayfly v1.1 data logger](/Pictures/_MG_1317-2.jpg)
+![Image of a Mayfly adapter circuit board attached to an EnviroDIY Mayfly v1.1 data logger](/Pictures/_MG_1317-2_sm.jpg)
 
 
 On the bottom of the Mayfly data logger board, some of the solder jumpers should be 
@@ -28,7 +28,7 @@ On solder jumper 19 (SJ19), move the solder blob from 12 to 13.
 On solder jumper 16 (SJ16), place a blob of solder (activates modem power LED - white)
 On solder jumper 17 (SJ17), place a blob of solder (activates modem network indicator LED - blue)
 
-![Image of the bottom of a Mayfly data logger with solder jumpers circled](/Pictures/Mayfly_jumper_modifications_20230206.JPG)
+![Image of the bottom of a Mayfly data logger with solder jumpers circled](/Pictures/Mayfly_jumper_modifications_20230206_sm.JPG)
 
 
 Developed by Luke Miller
