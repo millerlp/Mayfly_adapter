@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Mayfly_v1p0_revA3_public")(type "KiCad")(uri "D:/Dropbox/Hardware_projects/EnviroDIY_Mayfly_logger/EnviroDIY_Mayfly_Logger-master/hardware/Mayfly_v1p0/KiCad_version/Mayfly_v1p0_revA3_public.pretty")(options "")(descr ""))
+)

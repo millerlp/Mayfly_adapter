@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "OLED_0.96_I2Cgnd_pin1_small")(type "KiCad")(uri "D:/Dropbox/Hardware_projects/KiCad_libraries/OLED_screen/OLED_0.96_I2Cgnd_pin1_small.kicad_sym")(options "")(descr ""))
+)
